@@ -1,1 +1,1 @@
-This is Ryan's first git project!
+Practicing git with Project Odin.
